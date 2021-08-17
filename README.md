@@ -1,10 +1,22 @@
-# Would You Rather Project
+# Author
+  Subba Rao Illa
+  
+# Name of the App
+  Would You Rather
 
-This is the starter code for the final assessment project for Udacity's React & Redux course.
+# Description
+This project is to develop would you rather game web application using react and redux store, users can login with their username, navigate between answered and unanswered questions, view polls, create new poll, check leader board etc.
 
-The `_DATA.js` file represents a fake database and methods that let you access the data. The only thing you need to edit in the ` _DATA.js` file is the value of `avatarURL`. Each user should have an avatar, so you’ll need to add the path to each user’s avatar.
+# Steps to install and start the project:
 
-Using the provided starter code, you'll build a React/Redux front end for the application. We recommend using the [Create React App](https://github.com/facebook/create-react-app) to bootstrap the project.
+* run `yarn install`
+* start the development server with `yarn start`
+
+
+## Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app). You can find more information on how to perform common tasks [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+
 
 ## Data
 
